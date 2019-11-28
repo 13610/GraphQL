@@ -1,0 +1,14 @@
+D:\HotChocolateTrail\bin\Debug\netcoreapp2.1\HotChocolateTrail.deps.json
+D:\HotChocolateTrail\bin\Debug\netcoreapp2.1\HotChocolateTrail.runtimeconfig.json
+D:\HotChocolateTrail\bin\Debug\netcoreapp2.1\HotChocolateTrail.runtimeconfig.dev.json
+D:\HotChocolateTrail\bin\Debug\netcoreapp2.1\HotChocolateTrail.dll
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.csprojAssemblyReference.cache
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.csproj.CoreCompileInputs.cache
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.RazorAssemblyInfo.cache
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.RazorAssemblyInfo.cs
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.AssemblyInfoInputs.cache
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.AssemblyInfo.cs
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.RazorTargetAssemblyInfo.cache
+D:\HotChocolateTrail\bin\Debug\netcoreapp2.1\HotChocolateTrail.pdb
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.dll
+D:\HotChocolateTrail\obj\Debug\netcoreapp2.1\HotChocolateTrail.pdb

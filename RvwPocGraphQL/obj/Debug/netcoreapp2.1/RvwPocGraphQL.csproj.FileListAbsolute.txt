@@ -1,0 +1,13 @@
+C:\Users\13610\source\repos\RvwPocGraphQL\bin\Debug\netcoreapp2.1\RvwPocGraphQL.deps.json
+C:\Users\13610\source\repos\RvwPocGraphQL\bin\Debug\netcoreapp2.1\RvwPocGraphQL.runtimeconfig.json
+C:\Users\13610\source\repos\RvwPocGraphQL\bin\Debug\netcoreapp2.1\RvwPocGraphQL.runtimeconfig.dev.json
+C:\Users\13610\source\repos\RvwPocGraphQL\bin\Debug\netcoreapp2.1\RvwPocGraphQL.dll
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.csproj.CoreCompileInputs.cache
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.RazorAssemblyInfo.cache
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.RazorAssemblyInfo.cs
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.AssemblyInfoInputs.cache
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.AssemblyInfo.cs
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.RazorTargetAssemblyInfo.cache
+C:\Users\13610\source\repos\RvwPocGraphQL\bin\Debug\netcoreapp2.1\RvwPocGraphQL.pdb
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.dll
+C:\Users\13610\source\repos\RvwPocGraphQL\obj\Debug\netcoreapp2.1\RvwPocGraphQL.pdb
